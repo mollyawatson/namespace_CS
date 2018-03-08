@@ -16,7 +16,8 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 
 #codeigniter 3
 sin_sistersCS/logs/*
+sin_sistersCS/config/database.php
 !sin_sistersCS/logs/index.html
 !sin_sistersCS/logs/.htaccess
-sin_sistersCS/config/database.php
+
 /vendor/
